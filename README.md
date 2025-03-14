@@ -30,13 +30,14 @@ by the actual path on your machine.
 If you re-use this work, please cite:
 
 ```bib
-@article{TODO,
-  Title                    = {},
-  Author                   = {},
-  journal                  = {},
-  Year                     = {},
-  volume                   = {},
-  number                   = {},
-  pages                    = {},
+@article{Pacelli2025,
+  Title  = {An all-digital coherent AFSK demodulator for CubeSat applications},
+  Author = {Pacelli, R.V. and Florindo, R.L. and Antreich, F. and others},
+  journal = {Digital Signal Processing},
+  Year   = {2025},
+  volume = {},
+  number = {},
+  pages  = {},
+  doi    = {10.1016/j.dsp.2025.105147}
 }
 ```
